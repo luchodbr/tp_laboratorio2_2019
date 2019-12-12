@@ -1,0 +1,24 @@
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lgil\Desktop\Git Fac\Fac.lab\Excepciones\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\tp_laboratorio2_2019-master\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lgil\Desktop\asd\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp3LucianoGil\Excepciones\obj\Debug\Excepciones.pdb
