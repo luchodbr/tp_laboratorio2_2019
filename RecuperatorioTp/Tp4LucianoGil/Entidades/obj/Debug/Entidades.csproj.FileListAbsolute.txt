@@ -16,3 +16,9 @@ C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp4 Luciano Gil\MainCorreo\Entidades\ob
 C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp4 Luciano Gil\MainCorreo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp4 Luciano Gil\MainCorreo\Entidades\obj\Debug\Entidades.dll
 C:\Users\luchodbr\Desktop\FacLab\Fac.lab\Tp4 Luciano Gil\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\bin\Debug\Entidades.dll
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\bin\Debug\Entidades.pdb
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\obj\Debug\Entidades.dll
+D:\Luciano Gil\tp_laboratorio2_2019\RecuperatorioTp\Tp4LucianoGil\Entidades\obj\Debug\Entidades.pdb
